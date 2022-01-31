@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "members": [
+    { "id": 1, "name": "Nii Darku" },
+    { "id": 2, "name": "Nana Ama" },
+    { "id": 3, "name": "Ansah Kwame" }
+  ] 
 }
